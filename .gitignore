@@ -1,0 +1,4 @@
+.env
+# ignore venv
+venv/
+# ignore pycache
