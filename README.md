@@ -2,6 +2,8 @@
 
 **_Super beta and unofficial!_**
 
+![](examples/demo.gif)
+
 Cloud Copilot is a command-line interface (CLI) tool that allows users to interact with cloud resources using natural language input. The tool is built with Python and uses OpenAI's GPT-3.5 turbo chat model to generate cloud CLI commands from the user's input.
 
 Currently, Cloud Copilot supports Azure by default, but it can be easily extended to work with other cloud providers, such as AWS or GCP.
